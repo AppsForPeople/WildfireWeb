@@ -1,0 +1,23 @@
+Per Page
+
+Title
+Description
+OgImage
+TwitterShareText
+PageUrl
+MapID
+SearchTerm
+Hashtag
+TwitterTermWidget
+TwitterHashTagWidget
+
+
+MainConfig
+
+Sitename
+Owner
+URL
+TwitterSite
+TwitterCreator
+Links
+AnalyticsID
