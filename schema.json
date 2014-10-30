@@ -1,0 +1,29 @@
+[
+    {
+        "config": [
+            {
+                "Sitename": "",
+                "Owner": "",
+                "URL": "",
+                "TwitterSite": "",
+                "TwitterCreator": "",
+                "Links": "",
+                "AnalyticsID": ""
+            }
+        ],
+        "incident": [
+            {
+                "Title": "Sample Incident",
+                "Description": "Typical Fire Incident",
+                "OgImage": "ourwildfire.jpg",
+                "TwitterShareText": "Check out the details of this wildfire ->",
+                "PageUrl": "http://whatever.firebaseapps.com",
+                "MapID": "908703",
+                "SearchTerm": "typical fire",
+                "Hashtag": "#typicalfire",
+                "TwitterTermWidget": "Widget Code",
+                "TwitterHashTagWidget": "Widget Code"
+            }
+        ]
+    }
+]
